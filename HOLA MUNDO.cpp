@@ -1,16 +1,11 @@
-// Primer programa del pelos en C++ (Borra esto o cambialo Paps)
-//RECUERDE COMPILAR PREFERENTE en C++ Y USAR DEV-C++ VERS. 5.11 PARA EVITAR ERRORES
-//pero deberia jalar sin pedos en C normal)
+// Primer programa en C++ (hola mundo)
+//Boyzo Ramirez Carlos Alberto. 1155  F. De Comp. I.E.E. F.E.S. Aragón 08:23 p. m. 21/10/2019
 #include <stdio.h>
  
 int main () 
 {
+printf("\n");
 printf(" HOLA MUNDO ");
-// Plox beibi borra esto y lo de de abajo
-printf("\n");
-printf("\n");
-printf("**** Ai sta su programa pinshi pelos de mi qlo xd .|. -_- .|.****");
-//hasta aqui sta bien borrar bb
     return 0;
 }
 
